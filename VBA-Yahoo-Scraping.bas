@@ -1,4 +1,3 @@
-Attribute VB_Name = "WebQueries"
 'Written by MICHAEL CORLEY (please leave in code)
 'https://msdn.microsoft.com/en-us/library/microsoft.office.interop.excel.querytable_properties.aspx
 
